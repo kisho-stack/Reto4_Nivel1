@@ -14,3 +14,11 @@ Datos del Alumno :
                         Promedio:      15
                         Nota Maxima:   19
                         Nota Minima:   10
+Datos del Alumno :
+                        Nombre:        Joshua 
+                        DNI:           2345677
+                        Edad:          26
+                        Notas:         [12, 14, 15, 16]
+                        Promedio:      14
+                        Nota Maxima:   16
+                        Nota Minima:   12

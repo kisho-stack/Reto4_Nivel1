@@ -6,3 +6,7 @@ Datos del Profesor :
                           Nombre: Marcial Garcia 
                           DNI:    45632178
                           Edad:   35
+Datos del Profesor :
+                          Nombre: jorge 
+                          DNI:    1234567
+                          Edad:   23
