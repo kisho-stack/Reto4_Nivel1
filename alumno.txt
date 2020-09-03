@@ -1,0 +1,16 @@
+Datos del Alumno :
+                        Nombre:        Jorge Santa Cruz 
+                        DNI:           45619756
+                        Edad:          28
+                        Notas:         [12, 14, 15, 11]
+                        Promedio:      13
+                        Nota Maxima:   15
+                        Nota Minima:   11
+Datos del Alumno :
+                        Nombre:        Gionel Valenzuela 
+                        DNI:           456321
+                        Edad:          10
+                        Notas:         [10, 15, 19, 16]
+                        Promedio:      15
+                        Nota Maxima:   19
+                        Nota Minima:   10

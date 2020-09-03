@@ -1,0 +1,8 @@
+Datos del Profesor :
+                          Nombre: Juan Ramirez 
+                          DNI:    34567891
+                          Edad:   36
+Datos del Profesor :
+                          Nombre: Marcial Garcia 
+                          DNI:    45632178
+                          Edad:   35
